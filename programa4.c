@@ -1,4 +1,7 @@
-#include <stdio.h>
+/*David Alejandro Martínez Vega L´Englisse
+practica 6 ejercicio 4*/
+
+#nclude <stdio.h>
 int main()
 {
   int entero;
