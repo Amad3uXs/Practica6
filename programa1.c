@@ -1,3 +1,6 @@
+/*David Alejandro Martínez Vega L´Englisse
+practica 6 ejercicio 1*/
+
 #include <stdio.h>
 int main() {
 // Comentario por línea
