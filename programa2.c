@@ -1,3 +1,6 @@
+/*David Alejandro Martínez Vega L´Englisse
+practica 6 ejercicio 2*/
+
 #include <stdio.h>
 int main() {
   short enteroNumero1 = 115;
